@@ -1,0 +1,21 @@
+[debug] [2023-11-23T00:46:42.709Z] ----------------------------------------------------------------------
+[debug] [2023-11-23T00:46:42.726Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\MarceloSolusys\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-11-23T00:46:42.728Z] CLI Version:   11.16.1
+[debug] [2023-11-23T00:46:42.729Z] Platform:      win32
+[debug] [2023-11-23T00:46:42.730Z] Node Version:  v19.2.0
+[debug] [2023-11-23T00:46:42.731Z] Time:          Wed Nov 22 2023 21:46:42 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-11-23T00:46:42.732Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-11-23T00:46:42.779Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-11-23T00:46:42.781Z] > authorizing via signed-in user (marcelo@solusys.com.br)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\MarceloSolusys\Desktop\muriloLanches\cardapio\build\web
+
